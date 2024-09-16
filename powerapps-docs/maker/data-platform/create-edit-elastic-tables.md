@@ -92,8 +92,6 @@ When creating an elastic table, you can set:
 ### Features currently not supported with elastic tables
 
 Table features currently not supported with elastic tables:
-
-- Business rules
 - Charts
 - Business process flows
 - One Dataverse connector for Power BI
